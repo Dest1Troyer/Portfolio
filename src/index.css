@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.pt-serif-bold {
+    font-family: "PT Serif", serif;
+    font-weight: 500;
+    font-style: normal ;
+  }
+  .paprika-regular {
+    font-family: "Paprika", system-ui;
+    font-style: normal;
+  }
+  .inria-serif-bold {
+    font-family: "Inria Serif", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
